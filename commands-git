@@ -1,0 +1,4 @@
+commande pour cloner: git-clone url du repository
+commande pour push : git-add
+                     git-commit 
+                     git-push
